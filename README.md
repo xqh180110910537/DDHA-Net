@@ -1,6 +1,5 @@
 # DDHA-Net
-We evaluate our method on [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) ,[DDR](https://github.com/nkicsl/DDR-dataset), and [HQCDR](https://github.com/xqh180110910537/HQCDR).
-The dataset we pre-process based on preprocessing operations and mmseg requirements is at x.
+We evaluate our method on [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) ,[DDR](https://github.com/nkicsl/DDR-dataset), and [HQCDR](https://github.com/xqh180110910537/HQCDR). You need to preprocess the dataset according to process_image.py and MMsegmentation's demand.
 
 First, you should set folds as follows :
 ```
