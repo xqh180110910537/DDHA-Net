@@ -50,7 +50,7 @@ python ./tools/test.py ./HACDRNet&DDHANet/HACDR_ddr.py --gpu 0 --eval mDice
 ```
 ## Inference
 ```
-In ./single_infer.py
+python ./single_infer.py
 ```
 ## Model detail
 ```
