@@ -55,5 +55,6 @@ python ./single_infer.py
 ```
 Encoder: In ./mmseg/backbones/hacdr.py
 Decoder: In ./mmseg/decode_heads/dr_unet_head.py
+Loss: In ./mmseg/models/losses/NALoss.py
 ```
 ## Citation
